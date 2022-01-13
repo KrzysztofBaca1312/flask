@@ -1,0 +1,34 @@
+{
+    // Użyj funkcji IntelliSense, aby uzyskać informacje o możliwych atrybutach.
+    // Najedź kursorem, aby wyświetlić opisy istniejących atrybutów.
+    // Aby uzyskać więcej informacji, odwiedź stronę: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open contact.html",
+            "file": "c:\\Users\\Krzysztof Baca\\Desktop\\Kodilla\\html_flask\\templates\\contact.html"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open about.html",
+            "file": "c:\\Users\\Krzysztof Baca\\Desktop\\Kodilla\\html_flask\\templates\\about.html"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open base.html",
+            "file": "c:\\Users\\Krzysztof Baca\\Desktop\\Kodilla\\html_flask\\templates\\base.html"
+        }
+    ]
+}
